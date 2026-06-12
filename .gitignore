@@ -1,5 +1,7 @@
-# Claude Code internals — nunca al repo
+# Claude Code / AI internals — nunca al repo
 .claude/
+CLAUDE.md
+AGENTS.md
 
 # Variables de entorno — NUNCA exponer claves
 .env*
